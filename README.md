@@ -22,7 +22,7 @@ python inference.py
 ```
 
 The script will:
-- Show available checkpoints from `vukrosic/blueberry-1`
+- Show available checkpoints from `kou/blueberry-1`
 - Download the model automatically
 - Let you generate text interactively
 
